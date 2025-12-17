@@ -3,37 +3,29 @@ import { Linkedin, Twitter } from "lucide-react"
 
 const leadership = [
   {
-    name: "Mr. Francis Anyomi",
+    name: "Mr. Huzaifa Morkporkpor Francis Anyomi",
     role: "Chief Executive Officer",
-    image: "/placeholder.svg?key=fjknc",
-    bio: "20+ years in agribusiness and investment management.",
+    image: "/francis-anyomi.webp?key=fjknc",
+    bio: "A development planner, researcher, broadcast journalist and agri-enterprise specialist with 20+ years’ cross-sectoral leadership, Huzaifa brings a rare fusion of policy acumen, data-driven insight and compelling storytelling to GoFA. Guided by an unshakeable Pan-Africanist conviction, he leverages media reach and rigorous research to re-frame agriculture as a high-return, tech-enabled asset class for Africa’s youth. Under his stewardship, GoFA is transforming smallholder plots into tradable portfolios, moving the continent steadily toward food sovereignty and its rightful position as the world’s preferred food basket.",
     linkedin: "#",
     twitter: "#",
   },
   {
-    name: "Ps. Godwin Alada",
+    name: "Pastor Godwin Alada",
     role: "Chief Operations Officer",
-    image: "/placeholder.svg?key=98mgp",
-    bio: "Former agricultural consultant with expertise in farm management.",
+    image: "/godwin-alada.webp?key=98mgp",
+    bio: "Pastor Godwin Alada marries fiscal discipline with pastoral care. Fifteen years in financial accounting have taught him where every pesewa sits, while a parallel career in human-resources ministry shows him where every person thrives. At GoFA he orchestrates budgets, compliance, and talent pipelines so investors’ funds—and the field teams who deploy them—move in perfect rhythm from ledger to lettuce harvest.",
     linkedin: "#",
     twitter: "#",
   },
   {
     name: "Mr. Frank David Addae",
     role: "Chief Technology Officer",
-    image: "/placeholder.svg?key=cdrfm",
-    bio: "Tech entrepreneur with background in fintech and agritech solutions.",
+    image: "/frank-david-addae.webp?key=cdrfm",
+    bio: "Frank is the code behind the crops. With 5+ years building bullet-proof platforms, he architects GoFA’s end-to-end tech stack: mobile apps that let investors buy a plot between meetings, cloud dashboards that stream soil-moisture data in real time, and support systems that keep every sensor, server, and user synced 24/7. His mantra: if the tech isn’t invisible and instantaneous, the harvest won’t be either.",
     linkedin: "#",
     twitter: "#",
   },
-  // {
-  //   name: "Grace Adjei",
-  //   role: "VP, Investor Relations",
-  //   image: "/placeholder.svg?key=2w5o7",
-  //   bio: "Investment banker with experience in African capital markets.",
-  //   linkedin: "#",
-  //   twitter: "#",
-  // },
 ]
 
 const boardMembers = [
