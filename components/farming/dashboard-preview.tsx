@@ -65,9 +65,9 @@ const dashboardFeatures = [
 
 export function DashboardPreview() {
   return (
-    <section className="pt-32 pb-20">
+    <section className="pb-20">
       {/* Hero */}
-      <div className="bg-forest pb-32">
+      <div className="bg-forest pt-32 pb-32">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <span className="inline-block px-4 py-2 bg-white/10 text-gold rounded-full text-sm font-semibold mb-6">
